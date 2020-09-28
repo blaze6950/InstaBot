@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaBot", "InstaBot.csproj", "{8906DE65-2757-479B-992C-79F9A82DD8C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8906DE65-2757-479B-992C-79F9A82DD8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8906DE65-2757-479B-992C-79F9A82DD8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8906DE65-2757-479B-992C-79F9A82DD8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8906DE65-2757-479B-992C-79F9A82DD8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1AFDBDC-AF45-44C7-9DF6-9D889AA35469}
+	EndGlobalSection
+EndGlobal
